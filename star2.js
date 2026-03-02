@@ -1,6 +1,6 @@
 let n = 10;
 let star = "*";
-let space = " ";
+let space = "  ";
 
 for (let i = 1; i <= n; i++) {
     let row = space;
